@@ -1,0 +1,9 @@
+[
+  {"id":"classic_chino","name":"Classic Comfort Chino","price":49.99,"style":"everyday","comfort":5,"available":true,"premium":false,"promotion":false},
+  {"id":"stretch_denim","name":"Stretch Everyday Denim","price":59.99,"style":"everyday","comfort":5,"available":true,"premium":false,"promotion":true},
+  {"id":"formal_slim","name":"Formal Slim Trousers","price":54.99,"style":"formal","comfort":3,"available":true,"premium":false,"promotion":false},
+  {"id":"premium_wool","name":"Premium Wool Trousers","price":119.99,"style":"formal","comfort":5,"available":true,"premium":true,"promotion":true},
+  {"id":"designer_linen","name":"Designer Linen Trousers","price":139.99,"style":"smart-casual","comfort":4,"available":true,"premium":true,"promotion":true},
+  {"id":"relaxed_cargo","name":"Relaxed Cargo Trousers","price":44.99,"style":"everyday","comfort":4,"available":true,"premium":false,"promotion":false},
+  {"id":"soldout_travel","name":"Travel Stretch Trousers","price":52.99,"style":"travel","comfort":5,"available":false,"premium":false,"promotion":false}
+]
