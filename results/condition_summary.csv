@@ -1,0 +1,3 @@
+condition,budget_violation_rate,unavailable_violation_rate,budget_explanation_rate,contestability_explanation_rate,mean_price,mean_plan_length
+llm_only,0.58,0.0,0.345,0.23,102.19,0.0
+neurosymbolic,0.05,0.0,0.995,0.685,53.465,2.095

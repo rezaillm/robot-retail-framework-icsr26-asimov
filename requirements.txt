@@ -1,0 +1,7 @@
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.13
+anthropic>=0.40
+# Optional: if installed, the PDDL bridge can be extended to call pyperplan.
+# pyperplan>=2.1
